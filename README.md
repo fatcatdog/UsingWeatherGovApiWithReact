@@ -9,8 +9,11 @@ This project uses create-react-app, React, and react-router(not really utilized 
 Still in progress:
 
 -rendering local times of airports in the table
+
 -writing JS tests for application
+
 -refactoring giant Home component where everything lives in
+
 
 I basically copied the JS to render and style the chart displayed (slightly modified it though):
 - https://dev.to/abdulbasit313/an-easy-way-to-create-a-customize-dynamic-table-in-react-js-3igg
