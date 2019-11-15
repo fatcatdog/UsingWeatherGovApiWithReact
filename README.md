@@ -1,12 +1,12 @@
-This is a project to explore api.weather.gov and its various api endpoints.
+This is a project to explore api.weather.gov and its various api endpoints using React.
 
-Whats in this repo:
+# Whats in this repo:
 
 This create-react-app web app enables users to look up information, such as weather and timezone, about a US airport by its ICAO code (for example KATL is Hartsfield–Jackson Atlanta International Airport), utilizing api.weather.gov's various APIs.
 
 This project uses create-react-app, React, and react-router(not really utilized but its in there).
 
-Still in progress:
+# Still in progress:
 
 -rendering local times of airports in the table
 
@@ -15,7 +15,7 @@ Still in progress:
 -refactoring giant Home component where everything lives in
 
 
-To Run Project:
+# To Run Project:
 
 -clone repo on your local machine
 
