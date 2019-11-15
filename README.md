@@ -15,5 +15,14 @@ Still in progress:
 -refactoring giant Home component where everything lives in
 
 
+To Run Project
+-clone repo on your local machine
+-cd into my-app folder
+-in terminal run: npm install
+-int terminal run: npm start
+
+-this project accesses localStorage (so if that is disable, i assume lots of things won't work :) )
+
+
 I basically copied the JS to render and style the chart displayed (slightly modified it though):
 - https://dev.to/abdulbasit313/an-easy-way-to-create-a-customize-dynamic-table-in-react-js-3igg
