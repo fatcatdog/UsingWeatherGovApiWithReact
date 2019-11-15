@@ -15,10 +15,14 @@ Still in progress:
 -refactoring giant Home component where everything lives in
 
 
-To Run Project
+To Run Project:
+
 -clone repo on your local machine
+
 -cd into my-app folder
+
 -in terminal run: npm install
+
 -int terminal run: npm start
 
 -this project accesses localStorage (so if that is disable, i assume lots of things won't work :) )
